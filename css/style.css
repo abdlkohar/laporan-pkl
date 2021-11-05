@@ -1,0 +1,26 @@
+body {
+	background-image: url('..//img/header-bg.jpg');
+	background-attachment: fixed;
+}
+
+.contact {
+	
+	
+	background-size: cover;
+	padding-top: 3rem;
+
+	
+}
+
+h2 {
+	padding-top: 2rem;
+}
+
+label {
+	color: #eaeaea;
+}
+section, h2 {
+	color: #fff;
+}
+
+
